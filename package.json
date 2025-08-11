@@ -1,0 +1,1 @@
+{"name":"ludo-cash","version":"1.0.0","description":"A Ludo Star-like game for online play.","main":"src/index.js","scripts":{"start":"node src/index.js"},"author":"","license":"ISC"}
