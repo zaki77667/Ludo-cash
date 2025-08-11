@@ -1,0 +1,1 @@
+console.log('Welcome to Ludo Cash! This is the starting point of the game.');
