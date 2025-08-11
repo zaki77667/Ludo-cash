@@ -1,1 +1,19 @@
-{"name":"ludo-cash","version":"1.0.0","description":"A Ludo Star-like game for online play.","main":"src/index.js","scripts":{"start":"node src/index.js"},"author":"","license":"ISC"}
+{ 
+  "name": "ludo-cash",
+  "version": "1.0.0",
+  "description": "Online multiplayer Ludo game.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "author": "zaki77667",
+  "license": "MIT"
+}
